@@ -1,0 +1,2 @@
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\9184_신나는함수실행\x64\Debug\9184_신나는함수실행.exe
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\9184_신나는함수실행\x64\Debug\9184_신나는함수실행.pdb

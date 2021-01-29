@@ -1,0 +1,4 @@
+﻿  9251_LCS.cpp
+C:\Users\fripu\Downloads\9251_LCS\9251_LCS.cpp(25,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fripu\Downloads\9251_LCS\9251_LCS.cpp(26,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  9251_LCS.vcxproj -> C:\Users\fripu\Downloads\9251_LCS\Debug\9251_LCS.exe

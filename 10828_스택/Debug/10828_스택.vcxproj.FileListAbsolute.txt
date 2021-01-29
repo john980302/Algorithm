@@ -1,0 +1,2 @@
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\10828_스택\Debug\10828_스택.exe
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\10828_스택\Debug\10828_스택.pdb

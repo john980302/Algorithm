@@ -1,0 +1,2 @@
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\1010_다리놓기\Debug\1010_다리놓기.exe
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\1010_다리놓기\Debug\1010_다리놓기.pdb

@@ -1,0 +1,4 @@
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\2981_검문\Debug\2981_검문.exe
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\2981_검문\Debug\2981_검문.pdb
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\2981_검문\Debug\2981_검문.exe
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\2981_검문\Debug\2981_검문.pdb

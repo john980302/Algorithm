@@ -1,0 +1,2 @@
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\9184_신나는함수실행\Debug\9184_신나는함수실행.exe
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\9184_신나는함수실행\Debug\9184_신나는함수실행.pdb

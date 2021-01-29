@@ -1,0 +1,2 @@
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\11051_이항계수2\Debug\11051_이항계수2.exe
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\11051_이항계수2\Debug\11051_이항계수2.pdb

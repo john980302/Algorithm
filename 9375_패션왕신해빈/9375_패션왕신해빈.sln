@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9375_패션왕신해빈", "9375_패션왕신해빈.vcxproj", "{078C1571-215F-4103-B33A-D52002FF56A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Debug|x64.ActiveCfg = Debug|x64
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Debug|x64.Build.0 = Debug|x64
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Debug|x86.Build.0 = Debug|Win32
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Release|x64.ActiveCfg = Release|x64
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Release|x64.Build.0 = Release|x64
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Release|x86.ActiveCfg = Release|Win32
+		{078C1571-215F-4103-B33A-D52002FF56A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C0BE99-AE66-4FF8-B0DC-1B45333BF944}
+	EndGlobalSection
+EndGlobal

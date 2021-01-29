@@ -1,0 +1,2 @@
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\1541_잃어버린괄호\Debug\1541_잃어버린괄호.exe
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\1541_잃어버린괄호\Debug\1541_잃어버린괄호.pdb

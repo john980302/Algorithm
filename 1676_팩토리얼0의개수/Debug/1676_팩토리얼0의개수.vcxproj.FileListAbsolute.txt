@@ -1,0 +1,2 @@
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\1676_팩토리얼0의개수\Debug\1676_팩토리얼0의개수.exe
+C:\Users\WOOJIN\OneDrive - inu.ac.kr\백준\1676_팩토리얼0의개수\Debug\1676_팩토리얼0의개수.pdb

@@ -1,0 +1,10 @@
+﻿  14889_스타트와링크.cpp
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(30,9): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(44,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(48,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(55,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(62,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(63,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14889_스타트와링크\14889_스타트와링크.cpp(115,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  14889_스타트와링크.vcxproj -> C:\Users\WOOJIN\Downloads\14889_스타트와링크\Debug\14889_스타트와링크.exe

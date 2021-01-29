@@ -1,0 +1,2 @@
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\13305_주유소\Debug\13305_주유소.exe
+C:\Users\fripu\OneDrive - inu.ac.kr\백준\13305_주유소\Debug\13305_주유소.pdb

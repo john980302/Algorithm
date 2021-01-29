@@ -1,0 +1,5 @@
+﻿  14888_연산자끼워넣기.cpp
+C:\Users\WOOJIN\Downloads\14888_연산자끼워넣기\14888_연산자끼워넣기.cpp(26,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14888_연산자끼워넣기\14888_연산자끼워넣기.cpp(91,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\WOOJIN\Downloads\14888_연산자끼워넣기\14888_연산자끼워넣기.cpp(98,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  14888_연산자끼워넣기.vcxproj -> C:\Users\WOOJIN\Downloads\14888_연산자끼워넣기\Debug\14888_연산자끼워넣기.exe
