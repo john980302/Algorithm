@@ -1,5 +1,5 @@
 #include <iostream>
-
+ 
 int inp[9][9];
 
 bool check(int x, int y, int t) {
