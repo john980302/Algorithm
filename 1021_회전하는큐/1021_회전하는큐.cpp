@@ -20,8 +20,8 @@ public:
 	void two();
 	void three();
 	void print();
-	int small(int a);
 	int get_head();
+	int small(int a);
 };
 
 Queue::Queue(int n_) {
@@ -50,8 +50,7 @@ void Queue::one() {
 	node* delNode = head;
 	head = delNode->next;
 	if (head == tail) {
-		head->pre = NULL;
-		head->next = NULL;
+		return;
 	}
 	else {
 		head->pre = tail;
@@ -86,8 +85,8 @@ void Queue::print() {
 }
 
 int Queue::small(int a) {
-	int tmp = n / 2;
-	return a > tmp ? 1 : 0;
+	int b = n - a;
+	return a > b ? b : a;
 }
 
 int Queue::get_head() {
@@ -107,23 +106,16 @@ int main() {
 			q.one();
 		}
 		else {
-			tmp = q.small(abs(inp - q.get_head()));
+			tmp = 0;
 			while (1) {
-				q.print();
+				//q.print();
 				if (inp == q.get_head()) {
+					res += q.small(tmp);
 					q.one();
 					break;
 				}
-				// 
-				if (tmp == 1) {
-					q.three();
-				}
-				// 
-				else if (tmp == 0) {
-					q.two();
-				}
-				// two || three is run
-				res++;
+				q.two();
+				tmp++;
 			}
 		}
 	}
