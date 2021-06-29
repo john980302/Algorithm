@@ -30,15 +30,21 @@ def bfs():
         cur_x, cur_y = dq.popleft()
 
         for dx, dy in directions:
+
+            # 이동한 위치
             new_x = cur_x + dx
             new_y = cur_y + dy
             # 이동한 위치가 체스판 안의 여부 판단
             if (0 <= new_x < l) and (0 <= new_y < l):
                 # 이동한 위치가 마지막 위치인지 판단
                 if (new_x == end_x) and (new_y == end_y):
+                    # 값 갱신 후, 종료
                     chess[new_x][new_y] = chess[cur_x][cur_y] + 1
                     return chess[new_x][new_y]
+                # 이동한 위치가 마지막 위치가 아니고
+                # 해당 값이 0인 경우
                 elif not chess[new_x][new_y]:
+                    # 새로 방문할 deque에 저장 후, 이전 값 + 1로 저장
                     dq.append([new_x, new_y])
                     chess[new_x][new_y] = chess[cur_x][cur_y] + 1
 
